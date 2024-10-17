@@ -1,2 +1,3 @@
 Amazon clone using HTML and CSS. <br>
-try to apply concept I learn.
+I will try to apply concept that i learn to improve my frontend skills.
+
