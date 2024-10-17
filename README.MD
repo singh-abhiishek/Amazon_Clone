@@ -1,2 +1,2 @@
-Amazon clone using HTML and CSS.
-try to apply conceot I learn.
+Amazon clone using HTML and CSS. <br>
+try to apply concept I learn.
